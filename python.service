@@ -2,7 +2,7 @@
 Description=Python HTTP Server
 
 [Service]
-User=jenkins
+User=python
 WorkingDirectory=/home/python/public
 ExecStart=/home/python/app.py
 
